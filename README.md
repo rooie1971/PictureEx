@@ -10,3 +10,4 @@ Block Time	60 Seconds
 Difficulty Retargeting	Every Block
 Max Coin Supply (PoW Phase)	44 Billions PIC
 Premine	24 Billion for swap from wave platform token
+
