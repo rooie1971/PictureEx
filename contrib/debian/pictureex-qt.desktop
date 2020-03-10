@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=pictureex
+Comment=pictureex P2P Cryptocurrency
+Exec=pictureex-qt %u
+Terminal=false
+Type=Application
+Icon=pictureex128
+MimeType=x-scheme-handler/pictureex;
+Categories=Office;Finance;
+StartupWMClass=pictureex-qt
+Name[en_US]=pictureex-qt.desktop

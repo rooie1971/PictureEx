@@ -1,0 +1,6 @@
+usr/local/bin/pictureex-qt usr/bin
+share/pixmaps/pictureex32.xpm usr/share/pixmaps
+share/pixmaps/pictureex16.xpm usr/share/pixmaps
+share/pixmaps/pictureex128.png usr/share/pixmaps
+debian/pictureex-qt.desktop usr/share/applications
+debian/pictureex-qt.protocol usr/share/kde4/services/
